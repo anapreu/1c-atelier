@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.Клиенты" id="e13fbfa4-7bdc-46f3-8b6f-f346d6f41209" configVersion="ba3634c794f6fc498d218f9edf81bcc900000000"/>
+		<Metadata name="Catalog.Материал" id="006f2b59-c7f6-44a0-9491-73021542bd48" configVersion="568c613ad39df8448350e3d18f88566c00000000">
+			<Metadata name="Catalog.Материал.Attribute.Цена" id="e12c5909-166b-4965-9652-860241e839e6"/>
+		</Metadata>
+		<Metadata name="Catalog.МоделиОдежды" id="2544f147-22b1-4acb-bbb8-eb26a8ffc466" configVersion="a59fc79cd2398241873f90e71d9c610a00000000">
+			<Metadata name="Catalog.МоделиОдежды.Attribute.Категория" id="410106e6-510e-416f-b9a0-540183134bd9"/>
+			<Metadata name="Catalog.МоделиОдежды.Attribute.Описание" id="a8f6a74b-26d0-4f9b-af7f-b7ba6ddfc188"/>
+		</Metadata>
+		<Metadata name="Catalog.Сотрудники" id="8d9df350-cfaa-480b-a56d-4d828419e41d" configVersion="5a672f732eac5b4faa3929ed72ba9c8700000000">
+			<Metadata name="Catalog.Сотрудники.Attribute.Квалификации" id="bd168d32-ff6d-4ecf-aabf-ded54e7103bf"/>
+		</Metadata>
+		<Metadata name="Configuration.ХлоповскихАндрей" id="3d5e952f-cbe6-4825-bb39-3152d34c9429" configVersion="6aaeff6d55aeab4f85fdc76f8defae8400000000"/>
+		<Metadata name="Configuration.ХлоповскихАндрей.ExternalConnectionModule" id="3cda2bfb-db7f-4bf0-b7c9-2578fdcfa572.5" configVersion="30fe95f17207c5418ad9d377eb1a07b800000000"/>
+		<Metadata name="Configuration.ХлоповскихАндрей.ManagedApplicationModule" id="3cda2bfb-db7f-4bf0-b7c9-2578fdcfa572.6" configVersion="dce4c682082bc048a6d02f17c6defb8800000000"/>
+		<Metadata name="Configuration.ХлоповскихАндрей.SessionModule" id="3cda2bfb-db7f-4bf0-b7c9-2578fdcfa572.7" configVersion="4f11ce7d7d678b48a533b31432cc8f6d00000000"/>
+		<Metadata name="Constant.ИНН" id="bda40a43-4ace-4bc7-90ab-0cfdfb2ce578" configVersion="7a3f9d97ffad4e429bad6009799d823700000000"/>
+		<Metadata name="Constant.НаименованиеОрганизации" id="11deabf6-56b7-4a99-be0f-05a751848354" configVersion="2cc35f9311955347ad07f27f6a5655b500000000"/>
+		<Metadata name="Constant.ТелефонОрганизации" id="f9f807c7-821f-4898-93a1-63b73f987749" configVersion="7829b0f9276506419e13bae10f9a670600000000"/>
+		<Metadata name="Enum.ВидыНоменклатуры" id="6a203444-39b5-47a5-a8ae-0b8311128069" configVersion="6e0c4a2f9ea4be48a7a07cfe5cfc77a300000000">
+			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Материал" id="1016a40f-e09e-4cce-a86c-48a1a1e961c7"/>
+			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Фурнитура" id="16fcc33b-8c06-4f28-9344-4b4a39d1c948"/>
+			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Услуга" id="17a95cd6-de50-42c1-bce2-3f3b6773f001"/>
+			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Полуфабрикат" id="694b014f-b6ee-4a34-bd8c-892db3416d77"/>
+			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.ГотовоеИзделие" id="8e14e9bb-61be-427c-ad3f-30e76da03544"/>
+		</Metadata>
+		<Metadata name="Enum.Квалификации" id="0e290567-e97f-42e4-9564-884e8bdda024" configVersion="eba45bfb407f3a42b789796ed9a8d95900000000">
+			<Metadata name="Enum.Квалификации.EnumValue.Мастер" id="7adf7d96-1b05-4961-be57-ad804bb6d2a0"/>
+			<Metadata name="Enum.Квалификации.EnumValue.Закройщик" id="bfce6146-faea-4cdb-b16b-8a099762510d"/>
+			<Metadata name="Enum.Квалификации.EnumValue.Ученик" id="d607f7f1-bf21-4e4a-b3ce-8ff173e97038"/>
+			<Metadata name="Enum.Квалификации.EnumValue.Портной" id="e7e8fa96-05c2-40be-9038-aa5e5f8d28f8"/>
+		</Metadata>
+		<Metadata name="Enum.СтатусыЗаказов" id="b7b69378-fd2e-4bb0-b577-3d6dea62a822" configVersion="a74154a38c61ff4496e4c1a0f01e5a4d00000000">
+			<Metadata name="Enum.СтатусыЗаказов.EnumValue.ВРаботе" id="05540bf8-06d8-4278-bf5c-e903dcbc56fa"/>
+			<Metadata name="Enum.СтатусыЗаказов.EnumValue.Отменён" id="23f72cda-2398-435c-848c-f7eb370b8359"/>
+			<Metadata name="Enum.СтатусыЗаказов.EnumValue.Готов" id="424161e4-c084-498c-927e-75766299ebcf"/>
+			<Metadata name="Enum.СтатусыЗаказов.EnumValue.Новый" id="a7870740-6ee2-418c-b620-b71cba8df6e9"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="0e8f4642-9937-42ae-a7d9-8b950dee9860" configVersion="83048f10c73bcc42952e0cf5f304545e00000000"/>
+		<Metadata name="SessionParameter.ИНН" id="fb0f734a-e7f5-40a5-a2dd-808d38bee3e6" configVersion="7a542b276137f54fbebc3bd0f092216900000000"/>
+		<Metadata name="SessionParameter.НаименованиеОрганизации" id="270e5cc9-38d2-4d90-b57a-62629f5d8626" configVersion="02fd1a470cb41146a828cacb4cd19bad00000000"/>
+		<Metadata name="SessionParameter.ТелефонОрганизации" id="c47b22d7-e328-4150-8d81-5ead79378b1f" configVersion="190fb5cf3f89e84c97a9053220476ef200000000"/>
+		<Metadata name="Subsystem.Подсистема1" id="183deb7d-68a3-4547-b3d4-2da5f0898b37" configVersion="0c67cd410ab306439e44d1d29fb7294000000000"/>
+		<Metadata name="Subsystem.Подсистема1.CommandInterface" id="183deb7d-68a3-4547-b3d4-2da5f0898b37.1" configVersion="5335653b22426a498d3c142a7dc4e02a00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
